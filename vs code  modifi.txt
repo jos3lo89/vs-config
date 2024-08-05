@@ -1,0 +1,53 @@
+vs code  modifi
+
+- react theme
+- Custom CSS and JS Loader
+
+- brir la paleta de comandos: Ctrl+Shift+P
+
+
+Panel de archivos
+Abrir el explorador de archivos: Ctrl+Shift+E (Windows, Linux) o Cmd+Shift+E (macOS)
+Crear un nuevo archivo: Ctrl+N
+Abrir un archivo: Ctrl+O
+Guardar el archivo actual: Ctrl+S
+Guardar como: Ctrl+Shift+S
+
+Control de versiones
+Mostrar cambios: Ctrl+Shift+G
+Realizar un commit: Ctrl+Enter
+Pulsar y sacar: Ctrl+K Ctrl+U
+
+
+- Ctrl+k Ctrl+s -> lista de atajos de teclado
+
+
+Ajustes
+Abrir los ajustes: Ctrl+, (coma)
+Abrir las preferencias de usuario: Ctrl+K Ctrl+S
+
+
+Barra de actividades (o barra lateral)
+Ocultar/mostrar la barra lateral: Ctrl+B
+
+
+Opciones y más
+Buscar en el editor: Ctrl+F
+Reemplazar en el editor: Ctrl+H
+Ir a una línea específica: Ctrl+G
+Deshacer: Ctrl+Z
+Rehacer: Ctrl+Y
+Seleccionar todo: Ctrl+A
+Cerrar el editor actual: Ctrl+W
+
+
+  "editor.emptySelectionClipboard": true,
+
+
+  "window.newWindowDimensions": "inherit",
+
+
+
+Correo: ramses.au@chapsui.xyz
+Contraseña: au2321ma
+
