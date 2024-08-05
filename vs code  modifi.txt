@@ -1,4 +1,4 @@
-vs code  modifi
+vs code  mooooo
 
 - react theme
 - Custom CSS and JS Loader
@@ -48,6 +48,4 @@ Cerrar el editor actual: Ctrl+W
 
 
 
-Correo: ramses.au@chapsui.xyz
-Contraseña: au2321ma
 
