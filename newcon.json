@@ -1,0 +1,128 @@
+{
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.colorTheme": "React Theme",
+  "editor.hover.sticky": false,
+  "editor.stickyScroll.scrollWithEditor": false,
+  "workbench.tree.enableStickyScroll": false,
+  "editor.stickyScroll.enabled": false,
+
+  //
+  "workbench.activityBar.location": "top",
+  "workbench.sideBar.location": "right",
+  "window.zoomLevel": 1,
+  "editor.tabSize": 2,
+
+  "editor.wordWrap": "on",
+
+  "editor.wordWrapColumn": 100,
+  "editor.copyWithSyntaxHighlighting": false, // No copiar resaltado de sintaxis al usar el portapapeles
+  "diffEditor.ignoreTrimWhitespace": false, // Considera espacios en blanco al comparar archivos
+  "editor.emptySelectionClipboard": true, // Copiar la línea actual si no hay texto seleccionado
+
+  // "workbench.editor.enablePreview": false, // No usar vista previa para archivos
+  // "window.newWindowDimensions": "inherit", // Nuevas ventanas heredan tamaño de la ventana actual
+  "files.trimTrailingWhitespace": true, // Eliminar espacios en blanco al final de las líneas
+
+
+
+
+
+
+
+
+  "editor.snippetSuggestions": "inline", // Sugerencias de fragmentos de código en línea
+  "editor.detectIndentation": false, // No detectar automáticamente la indentación
+  "files.insertFinalNewline": true, // Añadir una nueva línea al final de los archivos
+  "files.trimFinalNewlines": true, // Eliminar nuevas líneas finales extra
+
+  // "workbench.editor.showTabs": "multiple", // Mostrar múltiples pestañas de editores
+  "editor.minimap.enabled": false, // Desactivar el minimapa en el editor
+  // "editor.lineNumbers": "on", // Mostrar números de línea
+  // "editor.guides.indentation": false, // No mostrar guías de indentación
+
+  // "scm.diffDecorations": "none", // No mostrar decoraciones de diferencias en SCM
+  "editor.hover.delay": 500, // Retraso de 600 ms para mostrar la vista previa al pasar el mouse
+  "editor.hover.enabled": true, // Habilitar la vista previa al pasar el mouse
+  // "workbench.tips.enabled": false, // Desactivar consejos en el espacio de trabajo
+
+
+  "editor.lightbulb.enabled": "off", // Desactivar sugerencias rápidas (bombilla)
+  // "editor.overviewRulerBorder": false, // Sin borde en el ruler de vista general
+  // "editor.renderLineHighlight": "all", // No resaltar la línea activa
+  // "editor.occurrencesHighlight": "off", // No resaltar ocurrencias de la selección
+  // "problems.decorations.enabled": false, // Desactivar decoraciones de problemas en el editor
+  // "editor.renderControlCharacters": false, // No mostrar caracteres de control
+  // "editor.hideCursorInOverviewRuler": true, // Ocultar el cursor en el ruler de vista general
+
+  // "editor.gotoLocation.multipleReferences": "goto", // Ir a la ubicación para múltiples referencias
+  // "editor.gotoLocation.multipleDefinitions": "goto", // Ir a la ubicación para múltiples definiciones
+  // "editor.gotoLocation.multipleDeclarations": "goto", // Ir a la ubicación para múltiples declaraciones
+  // "workbench.editor.enablePreviewFromQuickOpen": false, // No usar vista previa al abrir rápidamente archivos
+  // "editor.gotoLocation.multipleImplementations": "goto", // Ir a la ubicación para múltiples implementaciones
+  // "editor.gotoLocation.multipleTypeDefinitions": "goto", // Ir a la ubicación para múltiples definiciones de tipo
+  "terminal.integrated.fontFamily": "JetBrains Mono, FiraCode Nerd Font Mono", // Fuente del terminal integrada
+
+  "editor.fontFamily": "JetBrains Mono", // Fuente del editor
+  "editor.suggestFontSize": 12, // Tamaño de fuente para sugerencias
+  "editor.suggestLineHeight": 30, // Altura de línea para sugerencias
+  "security.workspace.trust.untrustedFiles": "open", // Abrir archivos no confiables en el espacio de trabajo
+  "workbench.layoutControl.enabled": false, // Desactivar control de diseño en el espacio de trabajo
+  // "workbench.editor.editorActionsLocation": "hidden", // Ocultar acciones del editor
+  "window.menuBarVisibility": "compact",
+  "window.commandCenter": false,
+
+
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }, // Mostrar barra de menú en modo compacto
+
+  "editor.inlayHints.fontFamily": "JetBrains Mono, Geist Mono",
+
+  "workbench.statusBar.visible": true,
+  // desconosco
+  "editor.multiCursorModifier": "ctrlCmd",
+  "diffEditor.renderSideBySide": false,
+  // "editor.snippetSuggestions": "top",
+  //   "window.nativeFullScreen": true,
+  //   "window.fullScreen": true,
+  //   "editor.lineNumbers": "off",
+  // otro que no se
+  "breadcrumbs.enabled": false,
+  "editor.matchBrackets": "never",
+  "editor.colorDecorators": false,
+  "git.decorations.enabled": false,
+  "editor.selectionHighlight": false,
+
+  // Typography
+  // "editor.fontFamily": "JetBrains Mono, Geist Mono",
+  // "editor.fontFamily": "FiraCode Nerd Font Mono",
+  // "terminal.integrated.lineHeight": 1,
+  // "terminal.integrated.fontSize": 12,
+  // custom css and js loader
+  // "vscode_custom_css.imports": [
+  //   "file:///C:/path-of-custom-css/custom-vscode.css",
+  //   "file:///C:/path-of-custom-css/custom-vscode-script.js"
+  // ],
+  "terminal.integrated.stickyScroll.enabled": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  //   "window.commandCenter": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
